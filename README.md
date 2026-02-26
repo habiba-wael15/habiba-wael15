@@ -24,5 +24,5 @@ System Design
 Database Optimization  
 
 📫 Contact Me  
-LinkedIn: (add your link here)  
-Email: (your email)  
+LinkedIn: (https://www.linkedin.com/in/habiba-wael-wael-a19a42237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+Email: (bebohabiba2004@gmail.com)  

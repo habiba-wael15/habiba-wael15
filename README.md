@@ -1,16 +1,28 @@
 ## Hi there 👋
+Hi, I'm Habiba Wael 👋  
 
-<!--
-**habiba-wael15/habiba-wael15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me  
+💻 Backend .NET Developer  
+🎓 Software Engineering Student  
+🚀 Passionate about building scalable and structured backend systems  
 
-Here are some ideas to get you started:
+🛠 Tech Stack  
+ASP.NET Core  
+C#  
+SQL Server  
+MySQL  
+Python  
+C++  
+Java  
+RESTful APIs  
+HTML  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning  
+Advanced .NET Concepts  
+Clean Architecture  
+System Design  
+Database Optimization  
+
+📫 Contact Me  
+LinkedIn: (add your link here)  
+Email: (your email)  
